@@ -1,1 +1,1 @@
-# vue3-pc-electron
+vue3+typescript+pinia+elementplus
